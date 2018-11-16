@@ -121,5 +121,6 @@ public class A6Tests {
 		return (p1.getRed() == p2.getRed() && p2.getGreen() == p2.getGreen() && p1.getBlue() == p2.getBlue());
 	}
 
+	//nice
 
 }
